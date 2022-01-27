@@ -288,8 +288,8 @@ a:focus {
   position: absolute;
   top: 0;
   left: 0;
-  width: 75%;
-  height: 100%;
+  width: 80%;
+  height: 108%;
   background-image: url(../images/slider-bg1.png);
   background-size: 100% 100%;
   z-index: 2;
@@ -315,6 +315,7 @@ a:focus {
 .slider_section .detail_box h1 {
   font-size: 3rem;
   font-weight: bold;
+  margin-left: 40px;
   margin-bottom: 30px;
   font-family: "SnellBT Regular", sans-serif;
 }
@@ -333,6 +334,7 @@ a:focus {
   font-family: "SnellBT Regular", sans-serif;
   color: #ffffff;
   font-weight: 500;
+  margin-left: 20px;
   margin-top: 75px;
   font-size: 20px;
 }
