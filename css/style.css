@@ -300,8 +300,8 @@ a:focus {
   position: absolute;
   top: 25px;
   right: 45px;
-  width: 550px;
-  height: 550px;
+  width: 450px;
+  height: 450px;
   background-image: url(../images/slider-bg2.png);
   background-size: cover;
   background-position: bottom right;
@@ -654,6 +654,10 @@ a:focus {
 
 .offer_section .btn-box a img {
   width: 65px;
+}
+
+.client_section{
+  position: relative;
 }
 
 .client_section .heading_container {
